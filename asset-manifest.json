@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BooksToRead/static/css/main.e2ec1513.css",
+    "main.js": "/BooksToRead/static/js/main.6dd41042.js",
+    "static/media/—Pngtree—open old books_2140422.png": "/BooksToRead/static/media/—Pngtree—open old books_2140422.59999d9bea17f3a40ef0.png",
+    "index.html": "/BooksToRead/index.html",
+    "main.e2ec1513.css.map": "/BooksToRead/static/css/main.e2ec1513.css.map",
+    "main.6dd41042.js.map": "/BooksToRead/static/js/main.6dd41042.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ec1513.css",
+    "static/js/main.6dd41042.js"
+  ]
+}
