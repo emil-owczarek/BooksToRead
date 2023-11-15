@@ -15,7 +15,7 @@ import { Footer } from './components/Footer/Footer';
 import { handleError } from './handleError';
 import { ErrorMessage } from './types/ErrorMessage';
 import { Filter } from './types/Filter';
-import bookPic from './—Pngtree—open old books_2140422.png';
+import bookPic from './book.png';
 import { SidePanel } from './components/SidePanel/SidePanel';
 
 export const App: React.FC = () => {
