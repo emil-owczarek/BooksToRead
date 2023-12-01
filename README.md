@@ -1,46 +1,53 @@
-# Getting Started with Create React App
+# BooksToRead - Your Personalized Reading List Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+Welcome to BooksToRead, a minimalist and intuitive application designed for book enthusiasts to track and manage their reading lists. Developed using React, TypeScript, and SASS, this application offers a fully responsive design, ensuring a seamless experience across various devices. Our backend, built on Node.js (version 20.9.0), securely stores your reading list on a server, allowing you to access and modify your list anytime, anywhere.
 
-In the project directory, you can run:
+### What Does BooksToRead Offer?
 
-### `npm start`
+BooksToRead is more than just a reading list manager. It's a platform where you can:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Add new book titles** to your reading list.
+- **Edit or remove existing entries** to keep your list up-to-date.
+- **Filter books** based on different criteria for easy navigation.
+- **Publicly share your reading list** with others, fostering a community of readers.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Why Choose BooksToRead?
 
-### `npm test`
+- **Simplicity and Clarity:** Designed with user experience in mind, the interface is clean and straightforward, focusing on functionality.
+- **Responsive Design:** Whether you’re on a phone, tablet, or desktop, BooksToRead adapts to your screen, ensuring a consistent experience.
+- **Persistent Storage:** Your reading list is safely stored on our server, always available when you need it.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Demo
 
-### `npm run build`
+Experience BooksToRead now: [BooksToRead Live Demo](https://emil-owczarek.github.io/BooksToRead/). Dive into the world of organized reading and discover how it can transform your reading habits!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Installation and Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+To use BooksToRead:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Visit the Demo Link:** Access the application via the provided demo link.
+2. **Navigate the Interface:** Use the intuitive UI to manage your reading list.
 
-### `npm run eject`
+## Contributing to BooksToRead
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+BooksToRead is an open-source project, and we welcome contributions from everyone. Whether you're fixing a bug, adding a feature, or improving the documentation, your help is invaluable.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### How to Contribute:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+1. **Clone the Repository:** Get a copy of the source code on your machine.
+2. **Set Up Your Environment:** Ensure you have Node V20.9.0, React, TypeScript, and SASS installed.
+3. **Make Your Changes:** Implement your features or fixes.
+4. **Submit a Pull Request:** Push your changes and open a PR for review.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Contributor Expectations:
 
-## Learn More
+- Create an issue for any major changes and discuss it with the maintainers.
+- Follow the coding standards and guidelines provided in the project.
+- Write clear, commented, and testable code.
+- Update the README if necessary.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Feedback
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Found a bug? Have a feature request? Please use the Issues tab to let us know. Your feedback helps us make BooksToRead better for everyone.
